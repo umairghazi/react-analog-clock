@@ -1,3 +1,11 @@
+# Analog Clock 
+
+A simple and elegant analog clock component built with React. 
+
+Check it out [here](https://umairghazi.github.io/react-analog-clock)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
